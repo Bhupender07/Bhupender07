@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhupender Pareek - @Bhupender07
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking for react developer profile
+- 🌱 I’m a salesforce certified B2C Commerce Developer
 - 📫 How to reach me bhupendarpareek@gmail.com
 
 <!---
